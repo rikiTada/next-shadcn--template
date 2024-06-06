@@ -1,12 +1,13 @@
 {
-  "name": "next-shadcn--template",
+  "name": "aaa",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "rename": "bash rename.sh"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.0",
